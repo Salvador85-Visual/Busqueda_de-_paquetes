@@ -1,1 +1,1 @@
-Busca paquetes ARP en caso de conexiona pacom y UDP para grabadores lanacess, Programado con C#. Es necesario instalarse Npcap en windows para que funcione. En la carpeta Publish esta el setup.
+Busca paquetes ARP en caso de conexiona pacom y UDP para grabadores lanacess, configuracion de ip y mascara del ordenador automaticamente, para la conexion automatica a los equipos, segun su rango IP. Programado con C#. Es necesario instalarse Npcap en windows para que funcione correctamente puesto la aplicacion utiliza esta libreria. En la carpeta Publish esta el setup.
